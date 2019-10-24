@@ -1,4 +1,5 @@
 package study1;
+//create by Reinaldo Henrique da Cruz Rocha, star this pls .
 
 import java.util.Scanner;
 
